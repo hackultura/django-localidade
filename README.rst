@@ -5,8 +5,8 @@ Django Localidade
 .. image:: https://badge.fury.io/py/django-localidade.png
     :target: https://badge.fury.io/py/django-localidade
 
-.. image:: https://travis-ci.org/gilsondev/django-localidade.png?branch=master
-    :target: https://travis-ci.org/gilsondev/django-localidade
+.. image:: https://travis-ci.org/hackultura/django-localidade.png?branch=master
+    :target: https://travis-ci.org/hackultura/django-localidade
 
 Define os estados e municipios brasileiros para o seu projeto Django.
 
