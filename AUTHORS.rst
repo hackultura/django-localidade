@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Django Localidade <me@gilsondev.in>
+* Gilson Filho <me@gilsondev.in>
 
 Contributors
 ------------

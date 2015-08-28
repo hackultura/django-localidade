@@ -1,5 +1,5 @@
 =============================
-django-localidade
+Django Localidade
 =============================
 
 .. image:: https://badge.fury.io/py/django-localidade.png
@@ -8,31 +8,30 @@ django-localidade
 .. image:: https://travis-ci.org/gilsondev/django-localidade.png?branch=master
     :target: https://travis-ci.org/gilsondev/django-localidade
 
-Define os estados e municipios brasileiros
+Define os estados e municipios brasileiros para o seu projeto Django.
 
-Documentation
--------------
+Documentação
+------------
 
 The full documentation is at https://django-localidade.readthedocs.org.
 
-Quickstart
+Instalação
 ----------
 
-Install django-localidade::
+Instale o django-localidade::
 
     pip install django-localidade
 
-Then use it in a project::
+Depois, use no seu projeto::
 
     import localidades
 
-Features
---------
+Características
+---------------
 
-* TODO
+[  ] Mapeamento dos Estados e Municípios via models;
+[  ] Gerenciamento dos dados via Django Admin;
+[  ] Definição de endpoints para listagem dos dados;
+[  ] Fields e Widgets para associação Estado -> Cidade (em breve);
 
-Cookiecutter Tools Used in Making This Package
-----------------------------------------------
-
-*  cookiecutter
-*  cookiecutter-djangopackage
+Licença: MIT
