@@ -29,9 +29,9 @@ Depois, use no seu projeto::
 Características
 ---------------
 
-[  ] Mapeamento dos Estados e Municípios via models;
-[  ] Gerenciamento dos dados via Django Admin;
-[  ] Definição de endpoints para listagem dos dados;
-[  ] Fields e Widgets para associação Estado -> Cidade (em breve);
+- [ ] Mapeamento dos Estados e Municípios via models;
+- [ ] Gerenciamento dos dados via Django Admin;
+- [ ] Definição de endpoints para listagem dos dados;
+- [ ] Fields e Widgets para associação Estado -> Cidade (em breve);
 
-Licença: MIT
+Licença: LGPL
